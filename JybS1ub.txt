@@ -13,3 +13,7 @@ vless://e4ee4945-166d-490d-b1ab-b6210c2f0e33@45.131.4.246:2087?encryption=mlkem7
 hysteria2://jkcnkc84dvggvi2n@38.107.232.146:54040?security=tls&obfs=salamander&obfs-password=JynMarket&insecure=0&sni=38.107.232.146#%F0%9F%87%BA%F0%9F%87%B8-%40JynMarket%C2%B9
 
 vless://d07c6648-b644-4736-ade5-9bb4062bf42a@38.107.232.146:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%BA%F0%9F%87%B8-%40JynMarket%C2%B2
+
+vless://d07c6648-b644-4736-ade5-9bb4062bf42a@38.107.232.146:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%BA%F0%9F%87%B8-%40JynMarket%C2%B3
+
+vless://d07c6648-b644-4736-ade5-9bb4062bf42a@38.107.232.146:2052?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%BA%F0%9F%87%B8-%40JynMarket%E2%81%B4
