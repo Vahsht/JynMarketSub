@@ -7,3 +7,7 @@ trojan://MiTiVPN@91.193.58.201:443?type=ws&security=tls&path=%2FMiTiVPN%3DNL&hos
 trojan://MiTiVPN@45.131.4.118:443?type=ws&security=tls&path=%2FMiTiVPN%3DSe&host=95r.ir&sni=95r.ir&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#%40JynMarket%20-%20%F0%9F%AB%AA%F0%9F%8D%83
 
 trojan://MiTiVPN@199.181.197.176:443?type=ws&security=tls&path=%2FMiTiVPN%3DfL&host=95r.ir&sni=95r.ir&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#%40JynMarket-%F0%9F%87%AB%F0%9F%87%B7
+
+vless://e572d59a-4e9b-440f-943c-32b48721b323@DE2-UNlimiTed.pavilof.ir:1020?security=reality&encryption=none&pbk=jILgyIiDR7xY8WDrU9EMx_iXUi6nKr3LapCgglBVBAU&host=snapp.ir&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=3fa2fdb7dce16b8b#%F0%9F%A4%93%F0%9F%A4%93-UNLIMITED%20JYN
+
+vless://b258c555-ce46-4660-afa9-f448f84d5cb1@31.15.18.244:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%A4%93%F0%9F%A4%93-UNLIMITED%20JYN%C2%B2
